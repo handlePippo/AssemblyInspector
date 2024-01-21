@@ -1,0 +1,10 @@
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Assembly_Inspector\Assembly_Inspector\bin\Debug\Assembly_Inspector.exe.config
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Assembly_Inspector\Assembly_Inspector\bin\Debug\Assembly_Inspector.exe
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Assembly_Inspector\Assembly_Inspector\bin\Debug\Assembly_Inspector.pdb
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Assembly_Inspector\Assembly_Inspector\obj\Debug\Assembly_Inspector.csproj.AssemblyReference.cache
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Assembly_Inspector\Assembly_Inspector\obj\Debug\AssemblyInspector.Form1.resources
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Assembly_Inspector\Assembly_Inspector\obj\Debug\Assembly_Inspector.Properties.Resources.resources
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Assembly_Inspector\Assembly_Inspector\obj\Debug\Assembly_Inspector.csproj.GenerateResource.cache
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Assembly_Inspector\Assembly_Inspector\obj\Debug\Assembly_Inspector.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Assembly_Inspector\Assembly_Inspector\obj\Debug\Assembly_Inspector.exe
+C:\Users\filip\OneDrive\Desktop\Esercizi Gades\Assembly_Inspector\Assembly_Inspector\obj\Debug\Assembly_Inspector.pdb
