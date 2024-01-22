@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace AssemblyInspector
 {
-    internal class Inspector<T> : IInspector<T> where T : class
+    internal class Inspector<T> : IInspector<T>
     {
         public Inspector() { }
         public List<MethodInfo> Methods { get; } = new List<MethodInfo>();
@@ -34,7 +34,7 @@ namespace AssemblyInspector
                     {
                         if (showAttributesInstead)
                         {
-                            foreach (var a in type.GetCustomAttributes())
+                            foreach (Attribute a in type.GetCustomAttributes())
                             {
                                 if (a is Attribute)
                                 {
