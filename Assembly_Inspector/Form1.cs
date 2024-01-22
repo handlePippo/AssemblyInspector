@@ -19,7 +19,7 @@ namespace AssemblyInspector
             openFileDialog1.FileName = string.Empty;
             openFileDialog1.ShowDialog();
             string pathName = openFileDialog1.FileName;
-            if (pathName != string.Empty && (sender as Button).Tag is "Methods")
+            if (pathName != string.Empty && ((Button)sender).Tag is "Methods")
             {
                 textBox1.Text = string.Empty;
                 IInspector<MethodInfo> inspector = new Inspector<MethodInfo>();
@@ -28,9 +28,8 @@ namespace AssemblyInspector
                 {
                     textBox1.Text += method.Name + "\r\n";
                 }
-                return;
             }
-            else if (pathName != string.Empty && (sender as Button).Tag is "Attributes")
+            else if (pathName != string.Empty && ((Button)sender).Tag is "Attributes")
             {
                 textBox1.Text = string.Empty;
                 IInspector<Attribute> inspector = new Inspector<Attribute>();
@@ -39,9 +38,7 @@ namespace AssemblyInspector
                 {
                     textBox1.Text += attribute.ToString() + "\r\n";
                 }
-                return;
             }
-            return;
         }
         private void OpenFileDialog1_FileOk(object sender, CancelEventArgs e)
         {
